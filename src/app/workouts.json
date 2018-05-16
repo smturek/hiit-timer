@@ -1,0 +1,43 @@
+{
+    "workouts": {
+        "1k": [
+            {
+                "exercise": "Burpee",
+                "reps": 10,
+                "sets": 5,
+            }
+            {
+                "exercise": "Ground-Zero Jump",
+                "reps": 25,
+                "sets": 4,
+            }
+            {
+                "exercise": "Pushup",
+                "reps": 10,
+                "sets": 10,
+            }
+            {
+                "exercise": "Bodyweight Squat",
+                "reps": 25,
+                "sets": 6,
+            }
+            {
+                "exercise": "Mountain Climber",
+                "reps": 20,
+                "sets": 5,
+            }
+            {
+                "exercise": "Alternating Lunge",
+                "reps": 10,
+                "sets": 10,
+            }
+            {
+                "exercise": "Jump Rope",
+                "reps": 100,
+                "sets": 4,
+            }
+        ]
+
+        }
+    }
+}
